@@ -1,0 +1,38 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.headingBox{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 80%;
+    border-radius: 50px;
+    margin-top: 15px;
+}
+
+.speedDiv{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 20%;
+    border-radius: 50px;
+}
+
+.volumeDiv{
+        background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        width: 20%;
+        border-radius: 50px;
+}
+
+#note{
+    font-size: 22px;
+}
+
+.playButton{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+}
